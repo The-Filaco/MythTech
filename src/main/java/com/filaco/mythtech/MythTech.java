@@ -13,7 +13,7 @@ public class MythTech implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-//
+//a
 		MythTech.LOGGER.info("Initializing MythTech");
 
 		ModItems.register();
